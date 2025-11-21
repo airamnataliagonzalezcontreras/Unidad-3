@@ -1,0 +1,5 @@
+1|camisa azul|250|ropa elegante
+2|vestido negro|1500|ropa de noche
+3|tacones rojos|600|elegantes
+4|pantalon negro|300|pantalon elegante
+5|blusa rosa|150|ropa casual
