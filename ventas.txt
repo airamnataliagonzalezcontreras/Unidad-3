@@ -1,0 +1,5 @@
+camisa azul|250.0|2|500.0
+vestido negro|1500.0|2|3000.0
+tacones rojos|600.0|3|1800.0
+pantalon negro|300.0|4|1200.0
+blusa rosa|150.0|5|750.0
